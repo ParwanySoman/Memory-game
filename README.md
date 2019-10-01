@@ -18,5 +18,5 @@ I had a little bit of trouble with this exercise, so I used a tutorial for this.
 - Lay out
 - Cards
 
-The link to the game is 
+The link to the game is https://parwanysoman.github.io/Memory-game/
 
